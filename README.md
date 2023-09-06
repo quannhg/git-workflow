@@ -1,1 +1,3 @@
-# git-workflow  \nHello World!
+# git-workflow
+
+Hello World!
