@@ -1,1 +1,3 @@
-Welcome to sample git-workflow project.
+# git-workflow
+
+Hello World!
