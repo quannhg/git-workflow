@@ -7,7 +7,6 @@ on:
       - '*.md'
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ngyngcphu/mkdocs-tool
   ORG_USERNAME: ${{ github.actor }}
 
 permissions:
